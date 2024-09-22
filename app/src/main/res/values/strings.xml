@@ -26,4 +26,9 @@ latte glass or a coffee cup. Flavoured syrup can be added.</string>
     <string name="kopikenangan_title">KOPI KENANGAN</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="default_description">default desc</string>
+
+    <string name="starbucks_desc">Starbucks Corporations is an American
+    multinational chain of coffeehouses and roastery reserves headquatered in
+    Seattle, Washington. It is the world\'s largest coffeehouse chain.</string>
+
 </resources>
